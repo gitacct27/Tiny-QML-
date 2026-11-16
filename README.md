@@ -143,3 +143,5 @@ PLease run the two files - under the path - quananon/PennyLane comparission/
 PennyLane comparission/anon_tqmlsam_comparison_simulation.py
  and 
 PennyLane comparission/anon_tqmlsam_dew_simulation.py
+
+## All the codes are available as a .ZIP file and uploaded here#
